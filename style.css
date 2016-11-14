@@ -28,7 +28,7 @@ body {
     background: 
         url("img/Belt.png") no-repeat 150px 85%,
         url("img/person.png") no-repeat 50% 52%,
-        url("img/wall.png") repeat-x,
+        url("img/Wall.png") repeat-x,
         grey 100% 100%;
         top:0px;
 }
